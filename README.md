@@ -1,8 +1,5 @@
- 🌱 Real Solar Cars, LLC is dedicated to developing advanced solar energy products 🌱
+ 🌱 Real Solar Cars LLC is dedicated to promoting vehicle mounted solar power 🌱
 
-
-
-Our web site is https://realsolarcars.com
 
 <!---
 realsolarcarsllc/realsolarcarsllc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
